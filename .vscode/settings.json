@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Music player/lib/jaudiotagger-3.0.1.jar",
+        "Music player/lib/jlayer-1.0.1.jar",
+        "Music player/lib/mp3agic-0.9.0.jar"
+    ]
+}
